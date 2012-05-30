@@ -1,0 +1,3 @@
+[submodule "stl_helpers"]
+	path = stl_helpers
+	url = git://github.com/agordon/stl_helpers.git
