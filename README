@@ -1,0 +1,9 @@
+This tiny project users "stl_helpers" as a git submodule.
+
+It was created with:
+  $ git init
+  $ git submodule add git://github.com/agordon/stl_helpers.git
+  $ git commit
+  $ git add Makefile test.cpp .gitignore
+  $ git commit
+
