@@ -7,3 +7,12 @@ It was created with:
   $ git add Makefile test.cpp .gitignore
   $ git commit
 
+When cloning this project:
+ do:
+   $ git clone git://github.com/agordon/stl_helpers_test.git
+   $ cd stl_helpers_test
+   $ git submodule init
+   $ git submodule update
+ OR
+   $ git clone --recursive git://github.com/agordon/stl_helpers_test.git
+
