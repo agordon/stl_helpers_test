@@ -1,5 +1,8 @@
 This tiny project users "stl_helpers" as a git submodule.
 
+Git Submodules help:
+  http://git-scm.com/book/en/Git-Tools-Submodules
+
 It was created with:
   $ git init
   $ git submodule add git://github.com/agordon/stl_helpers.git
